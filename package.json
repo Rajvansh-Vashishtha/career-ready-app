@@ -1,0 +1,23 @@
+{
+  "name": "career-ready-app",
+  "version": "2.4.0",
+  "description": "AI-Powered Career Decision Platform & Product Management Case Study Application",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx serve ."
+  },
+  "keywords": [
+    "career-ready",
+    "ai-career-platform",
+    "prd-case-study",
+    "product-management",
+    "resume-ats-optimizer",
+    "mock-interviewer"
+  ],
+  "author": "PM Candidate",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.2.0"
+  }
+}

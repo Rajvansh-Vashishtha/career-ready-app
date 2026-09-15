@@ -1,0 +1,15 @@
+Alex Chen — Tech & Product Candidate (APM / Data Analyst / SWE)
+
+SUMMARY
+Driven candidate with hands-on experience in PRD writing, Power BI executive dashboarding, Advanced Excel financial modeling (Pivot Tables, DAX, XLOOKUP), Advanced SQL, PostHog telemetry, and Figma wireframing.
+
+EXPERIENCE & PROJECTS
+- Authored 3 comprehensive PRDs for B2C SaaS platforms with clear user personas and North Star KPIs.
+- Built automated Power BI & Tableau dashboards connected to PostgreSQL databases for daily KPI reporting.
+- Executed complex Excel modeling using Pivot Tables, VLOOKUP/XLOOKUP, and dynamic arrays for transaction datasets.
+- Analyzed user retention cohorts and funnel drop-offs using PostHog & Amplitude telemetry logging.
+- Designed responsive Figma wireframes and interactive prototypes for mobile onboarding flows.
+- Built AI-powered tools using Claude Code, Firebase, and LLM APIs with prompt engineering best practices.
+
+SKILLS & TOOLKIT
+Power BI, Tableau, Advanced Excel (DAX, XLOOKUP, Pivot Tables), Advanced SQL, PRD Writing, Figma, PostHog, Amplitude, User Research, JTBD, Metrics Definition, Python (Pandas), AI Tools, Firebase
